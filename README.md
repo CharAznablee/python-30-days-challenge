@@ -34,18 +34,20 @@ Jeder Ordner enthält:
 ## Tägliches Lerntagebuch (Template)
 Füge in jeden Tages-Ordner eine datei "log.md" ein:
 
-"# Day X - Log
-   **Was habe ich gelernt?**
-   -
-   **Was war schwer?**
-   -
-   **Was hat mir besonders geholfen**
-   -
-   **Wie ist mein Gefühl heute?**
-   -
-   **GPT genutzt?**
-   Nein / Ja (und warum)
-"
+```bash
+# Day X - Log
+**Was habe ich gelernt?**
+-
+**Was war schwer?**
+-
+**Was hat mir besonders geholfen**
+-
+**Wie ist mein Gefühl heute?**
+-
+**GPT genutzt?**
+Nein / Ja (und warum)
+
+```
 
 ## Ziele dieser Challenge
 - Python-grundlagen vollständig verstehen
